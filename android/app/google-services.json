@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "720957301222",
+        "firebase_url": "https://my-project-1536840750010.firebaseio.com",
+        "project_id": "my-project-1536840750010",
+        "storage_bucket": "my-project-1536840750010.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:720957301222:android:290646802f827a530fb627",
+                "android_client_info": {
+                    "package_name": "com.example.shoop"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "720957301222-oo88n55a4bd2netaft64935f7u23dnok.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCQghjHAsOGqwaMFIrkDcp1AKG9qJ4-d5k"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "720957301222-oo88n55a4bd2netaft64935f7u23dnok.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
